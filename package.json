@@ -1,0 +1,14 @@
+{
+  "name": "robobar-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "defaultSuite.spec.js",
+  "scripts": {
+    "test": "mocha defaultSuite.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.2.0"
+  }
+}
